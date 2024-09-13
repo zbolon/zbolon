@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zbolon
-- 👀 I love being active and hanging out with my friends
 - 🌱 I’m currently studying Computer Science at the University of Colorado Boulder
 - 💞️ I’m looking to collaborate on small projects to further my learning and understanding as a Computer Science major
-- 📫 How to reach me ...
+- I am currently learning C++ but have a strong background in Java and Python
+- 👀 I love being active and hanging out with my friends
 - ⚡ Fun fact: In high school I did cross country and track and field.
 
 <!---
