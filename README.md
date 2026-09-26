@@ -36,4 +36,4 @@ Collaborative full-stack flashcard application developed with a six-person team.
 ### 📫 Connect
 
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zachary-bolon/)
-* **Email: zachbolon@comcast.net
+* **Email:** zachbolon@comcast.net
