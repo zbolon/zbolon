@@ -10,7 +10,7 @@ I'm interested in **AI, embedded systems, systems programming, and software deve
 C • C++ • Python • Java • JavaScript
 
 **Tools & Technologies:**
-Git • Linux • CMake • pthreads • PostgreSQL • Node.js • Docker • NumPy • pandas
+Git • Linux • CMake • pthreads • SQL • Node.js • Docker • NumPy • pandas
 
 ### 🚀 Featured Projects
 
