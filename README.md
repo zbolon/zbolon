@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @zbolon
-- I’m currently studying Computer Science at the University of Colorado Boulder, College of Engineering and Applied Science
-- I’m looking to collaborate on small projects to further my learning and understanding as a Computer Science major
-- I'm proficient in Java, C++, and Python but am always ready to learn more
-- Fun fact: In high school I did cross country and track and field with a pr of 17:02 in 3 miles and 4:59.6 in the 1 mile (1609 m)
+# Hi, I'm Zach 👋
 
-<!---
-zbolon/zbolon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Computer Science student at the University of Colorado Boulder**, graduating in **May 2028**, with a minor in **Engineering Entrepreneurship**.
+
+I'm interested in **AI, embedded systems, systems programming, and software development**. I especially enjoy projects that let me work closer to the underlying hardware and understand how things work at a lower level.
+
+### 🔧 Technologies
+
+**Languages:**
+C • C++ • Python • Java • JavaScript
+
+**Tools & Technologies:**
+Git • Linux • CMake • pthreads • PostgreSQL • Node.js • Docker • NumPy • pandas
+
+### 🚀 Featured Projects
+
+#### [Multithreaded DNS Resolver](https://github.com/zbolon/Multithreaded_DNS)
+
+Multithreaded DNS resolver written in C using producer/consumer threads, a bounded circular queue, mutexes, condition variables, and `getaddrinfo()`.
+
+**C • pthreads • Linux/macOS • Concurrency**
+
+#### [MiniGit](https://github.com/zbolon/MiniGit)
+
+A lightweight version-control system implemented in C++17. Implements file tracking, commits, version history, checkout, and commit-message search using custom linked lists and a chained hash table.
+
+**C++ • Data Structures • CMake • Filesystem**
+
+#### [QuiC](https://github.com/zbolon/QuiC)
+
+Collaborative full-stack flashcard application developed with a six-person team. Built using Node.js, PostgreSQL, Handlebars, Bootstrap, Docker, and REST APIs.
+
+**JavaScript • Node.js • PostgreSQL • Docker**
+
+### 🎯 Currently Learning
+
+* Embedded software and digital logic
+* Machine learning and AI
+* Computer architecture
+* Network systems
+
+### 📫 Connect
+
+* **LinkedIn:** [linkedin.com/in/zachary-bolon](YOUR_LINKEDIN_URL)
+* **Email: zachbolon@comcast.net
