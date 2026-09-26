@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student at the University of Colorado Boulder**, graduating in **May 2028**, with a minor in **Engineering Entrepreneurship**.
 
-I'm interested in **AI, embedded systems, systems programming, and software development**. I especially enjoy projects that let me work closer to the underlying hardware and understand how things work at a lower level.
+I'm interested in **embedded systems, systems programming, AI, and software development**. I especially enjoy projects that let me work closer to the underlying hardware and understand how things work at a lower level.
 
 ### 🔧 Technologies
 
@@ -32,12 +32,6 @@ Collaborative full-stack flashcard application developed with a six-person team.
 
 **JavaScript • Node.js • PostgreSQL • Docker**
 
-### 🎯 Currently Learning
-
-* Embedded software and digital logic
-* Machine learning and AI
-* Computer architecture
-* Network systems
 
 ### 📫 Connect
 
